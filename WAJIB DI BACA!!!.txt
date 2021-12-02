@@ -1,0 +1,16 @@
+step #1
+----------------------------
+
+pip install -r install.txt
+
+step #2
+-----------------------------
+
+pip uninstall websocket
+pip install websocket-client
+
+atau
+
+pip uninstall websocket
+pip uninstall websocket-client
+pip install websocket-client

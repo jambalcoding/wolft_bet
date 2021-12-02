@@ -1,0 +1,40 @@
+{
+ "Account": {
+  "username": "xxx",
+  "password": "xxx",
+  "Currency": "btt",
+  "DemoMode": "OFF"
+ },
+ "Target Profit": "5000",
+ "Target Win": "100000",
+ "Lose Target": "0",
+ "Save Profit": "0",
+ "MaxLS": "0",
+ "Reset Seed": "100",
+ "Show Price": "ON",
+ "Play Game": "dice",
+ "Betset": [
+  {
+   "Name Bet Set": "00 - @riosuyanto",
+   "Base Bet": "0.0001",
+   "Chance": "45",
+   "Random Chance": {
+    "Toggle": "OFF",
+    "Min": "1",
+    "Max": "1"
+   },
+   "Bet": {
+    "Bet": "Hi",
+    "Hi / Low": {
+     "Toggle": "OFF",
+     "If Lose": "1",
+     "If Win": "1"
+    }
+   },
+   "Mode1": {
+    "Toggle": "ON",
+    "Profit": "0.00000001"
+   }
+  }
+ ]
+}
